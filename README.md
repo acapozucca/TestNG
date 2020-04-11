@@ -99,7 +99,7 @@ Remember, it is placed into `src/test/java` folder, and into package TestNG.
 
 2. Make right-click on top of "TestLandingPage.java".
 
-3. Select "Run as" -> "TestNG Test"
+3. Select "Run as" -> "TestNG Test".
 
 4. Running this test case results in a browser being automatically open, displaying the page:
 ```
@@ -110,7 +110,7 @@ and checking that the page's content is
 You have reached some content here. Congratulations!
 ```
 
-If the page can be load, and its content corresponds with the expected content, then the test case passes.
+If the page can be loaded, and its content corresponds with the expected content, then the test case passes.
 
 5. Once the test case has finished its execution, its results are shown in the TestNG view.
 
@@ -181,5 +181,5 @@ These guidelines explain how to use TestNG:
 
 - to run user acceptance test cases (UATs), 
 - to run these test cases from within an IDE, and
-- to run these test ases from the console using Maven (very important to automate the test case execution)
+- to run these test ases from the console using Maven (very important to automate the test case execution).
 
