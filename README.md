@@ -162,7 +162,7 @@ and the content of the file is:
 </suite>
 ```
 
-**Exercise**: uncomment the line
+**Exercise 1**: uncomment the line
 ```
    <!--       <class name="testNG.TestFirstServlet" /> --> 
 ```
@@ -172,6 +172,7 @@ and:
 2. check the results
 3. analyse why there are now 4 test cases being run, and why there is a failure. 
 
+**Exercise 2**: enlarge Web-based Hello World's test coverage by adding test cases for API DB servlets "select" and "insert".
 
 
 
