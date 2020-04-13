@@ -11,7 +11,8 @@ Laptop with at least 8 Gb memory (recommended 16 Gb, ideally 32 Gb)
 ### Software
 
 1. The Web-based Hello World case study
-* Instructions to install here: https://github.com/acapozucca/helloworld/blob/master/product.helloworld/README.md
+* Instructions to install here: 
+https://github.com/acapozucca/helloworld
 
 **Note**: the case study has to be running. 
 
