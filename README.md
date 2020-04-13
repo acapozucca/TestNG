@@ -187,5 +187,5 @@ These guidelines explain how to use TestNG:
 
 
 ## Exercise
-* Rely on Maven to parametrise the test cases such that the value to stored in the attribute "serverBaseURL" it is not hardcoded.
+* Rely on Maven to parametrise the test cases such that the value stored in the attribute "serverBaseURL" it is not hardcoded.
 
