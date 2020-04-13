@@ -5,7 +5,7 @@
 
          <class name="testNG.TestLandingPage" />
          <class name="testNG.TestStaticPage" />
-         <class name="testNG.TestFirstServlet" />
+    <!--      <class name="testNG.TestFirstServlet" />  -->
     </classes>
 
   </test>
