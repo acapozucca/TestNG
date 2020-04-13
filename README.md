@@ -185,3 +185,7 @@ These guidelines explain how to use TestNG:
 - to run these test cases from within an IDE, and
 - to run these test ases from the console using Maven (very important to automate the test case execution).
 
+
+## Exercise
+* Rely on Maven to parametrise the test cases such that the value to stored in the attribute "serverBaseURL" it is not hardcoded.
+
