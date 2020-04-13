@@ -18,7 +18,7 @@ public class TestFirstServlet {
 	
 	@BeforeTest
 	public static void configureDriver() {
-		System.setProperty("webdriver.chrome.driver" ,  "lib/chromedriver");
+		System.setProperty("webdriver.chrome.driver" ,  "lib/mac/chromedriver");
 		driver=new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
